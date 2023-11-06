@@ -17,9 +17,13 @@ O Head de Dados pediu para que você entrasse na base de dados do
 e organizasse esta base para análise, utilizando Banco de Dados em Nuvem e trazendo as seguintes características:
 
 a. Utilização de no máximo 20 questionamentos realizados na pesquisa;
+
 b. Utilizar 3 meses para construção da solução;
+
 c. Caracterização dos sintomas clínicos da população;
+
 d. Comportamento da população na época da COVID-19;
+
 e. Características econômicas da Sociedade;
         
 
