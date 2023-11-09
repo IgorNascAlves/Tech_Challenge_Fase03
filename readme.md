@@ -2,7 +2,7 @@
 ## Índice
 
 - [O Problema](#o-problema)
-- [PNAD-COVID-19 do IBGE](#pnad-covid-19-do-ibge)
+    - [PNAD-COVID-19 do IBGE](#pnad-covid-19-do-ibge)
 - [Solução do projeto](#solução-do-projeto)
     - [Arquitetura do projeto](#arquitetura-do-projeto)
     - [Estrutura de Pastas](#estrutura-de-pastas)
@@ -20,7 +20,7 @@ Apesar de ser contratado(a) agora, a sua área observou que a utilização do es
 * Características da população;
 * Características econômicas da sociedade.
 
-# PNAD-COVID-19 do IBGE
+## PNAD-COVID-19 do IBGE
 
 O Head de Dados pediu para que você entrasse na base de dados do 
 [PNAD-COVID-19 do IBGE](https://covid19.ibge.gov.br/pnad-covid/)
