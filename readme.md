@@ -33,4 +33,10 @@ Seu objetivo será trazer uma breve análise dessas informações, como foi a or
 
 - Leiam com atenção a base de dados e toda a documentação que o site o PNAD – Covid19 traz, principalmente os dicionários, que ajudam e muito no entendimento da Base de Dados. 
 -  o que já foi ensinado e consolidado nas outras fases para apresentar a resolução do projeto.
-          
+
+# Solução do projeto
+
+## Arquitetura do projeto
+
+![image](https://github.com/IgorNascAlves/Tech_Challenge_Fase03/assets/26041581/001bd63d-e342-4ce6-86c4-bea015563643)
+
