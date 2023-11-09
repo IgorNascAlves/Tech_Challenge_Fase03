@@ -4,6 +4,9 @@
 - [O Problema](#o-problema)
 - [PNAD-COVID-19 do IBGE](#pnad-covid-19-do-ibge)
 - [Solução do projeto](#solução-do-projeto)
+    - [Arquitetura do projeto](#arquitetura-do-projeto)
+    - [Estrutura de Pastas](#estrutura-de-pastas)
+    - [Resultados](#resultados)
 
 # O Problema
 
@@ -46,4 +49,41 @@ Seu objetivo será trazer uma breve análise dessas informações, como foi a or
 ## Arquitetura do projeto
 
 ![image](https://github.com/IgorNascAlves/Tech_Challenge_Fase03/assets/26041581/001bd63d-e342-4ce6-86c4-bea015563643)
+
+## Estrutura de Pastas
+
+### Análises:
+Pasta contendo o arquivo do Power BI onde criamos nossos gráficos e o dashboard.
+
+### Dados do Projeto:
+Pasta que armazena os dados utilizados no projeto (não disponibilizados no GitHub devido ao tamanho).
+
+### Dados Tratados:
+Dados utilizados no dashboard que passaram por tratamento (não disponibilizados no GitHub devido ao tamanho).
+
+### Notebooks:
+O arquivo `explorando_dados.ipynb` foi utilizado para realizar tratamentos e estabelecer conexões com bancos de dados na nuvem e on-premise, gerando os dados tratados.
+
+### Ref:
+Imagens de referência utilizadas no relatório.
+
+### Relatórios:
+PDFs contendo os relatórios técnico e de negócios.
+
+### Scripts:
+Código utilizado para carregar os dados em um banco de dados local.
+
+## Resultados
+
+- [Relatório de Negócios](https://github.com/IgorNascAlves/Tech_Challenge_Fase03/blob/main/Relat%C3%B3rios/Impactos%20COVID-19%20-%20Grupo42.pdf)
+- [Relatório Técnico](https://github.com/IgorNascAlves/Tech_Challenge_Fase03/blob/main/Relat%C3%B3rios/Impactos%20COVID-19%20-%20Grupo42.pdf)
+- [Dashboard](https://github.com/IgorNascAlves/Tech_Challenge_Fase03/blob/main/Analises/Criando-m%C3%A9tricas.pbix)
+- Dados Tratados (selecionando as 23 perguntas) (Indisponível)
+
+    
+
+
+
+
+
 
