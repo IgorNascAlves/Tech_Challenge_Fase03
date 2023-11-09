@@ -1,3 +1,10 @@
+
+## Índice
+
+- [O Problema](#o-problema)
+- [PNAD-COVID-19 do IBGE](#pnad-covid-19-do-ibge)
+- [Solução do projeto](#solução-do-projeto)
+
 # O Problema
 
 Imagine agora que você foi contratado(a) como Expert em Data Analytics por um grande hospital para entender como foi o comportamento da população na época da pandemia da COVID-19 e quais indicadores seriam importantes para o planejamento, caso haja um novo surto da doença.
